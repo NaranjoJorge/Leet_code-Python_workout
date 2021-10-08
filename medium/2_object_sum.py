@@ -5,7 +5,7 @@ the others.
 
 @*args : objects
 description: Doesn't work for list inside list, dicts inside list, etc.
-Also does work for strings of the form 'sunny23'.
+Also doesn't work for strings of the form 'sunny23'.
 Note: I know I am repeating myself.
 '''
 def objects_sum(*args):
