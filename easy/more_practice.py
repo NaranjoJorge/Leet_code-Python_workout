@@ -1,3 +1,2 @@
-run = 1
-if not run:
-	print('H')
+guess = float(input('here: '))
+print(guess)
